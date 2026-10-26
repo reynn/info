@@ -41,7 +41,7 @@ date: 2026-06-04
 | ------------------------- | :---------: | :-------------: | :-------------: | --------------------- |
 | Front Wheel Spindle       |      -      |        -        |        -        | 81910602AA            |
 | Front Axle Nut            |    63.0     |      46.5       | 30mm Hex Socket | 74810651A             |
-| Front Axle Pinch Bolts    |    10.0     |       7.4       |    5mm Allen    |                       |
+| Front Axle Pinch Bolts    |    10.0     |       7.4       |    5mm Allen    |  [TIFBMON360RBK](https://www.probolt-usa.com/titanium-front-brake-caliper-mount-bolt-kit-race-spec-tifbmon360r/)                     |
 | Front Brake Caliper Bolts |    45.0     |      33.2       | 12mm Hex Socket | 77915111B             |
 | Rear Axle Nut             |    145.0    |      106.9      | 30mm Hex Socket | 74810232B & 75011251A |
 | Frame Slider Frame Bolts  |    90.0     |      66.4       |   12mm Allen    | 77918291AA            |
