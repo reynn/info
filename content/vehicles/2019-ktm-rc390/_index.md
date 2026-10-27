@@ -4,7 +4,7 @@ draft: false
 date: 2026-06-04
 ---
 
-![KTM RC390](./IMG20260319132503.jpg)
+![KTM RC390](./5487041.jpg)
 
 ## General Specs
 
@@ -31,7 +31,7 @@ date: 2026-06-04
 | Front Tire Pressure |            28 psi            |
 | Rear Tire Pressure  |            32 psi            |
 | Front Sprocket      |              15              |
-| Rear Sprocket       |              43              |
+| Rear Sprocket       |              45              |
 
 ## Torque Specs
 
